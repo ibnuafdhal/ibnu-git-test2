@@ -9,5 +9,6 @@
 </head>
 <body>
 <h1>Halo PHP</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid cumque enim esse, ex laborum laudantium, nesciunt numquam officiis optio possimus praesentium quaerat quis quod quos recusandae rerum soluta suscipit. Eius?</p>
 </body>
 </html>
